@@ -1,0 +1,6 @@
+{
+  "name": "DigiWare AI Platform",
+  "description": "Système d'exploitation intelligent dédié à la gestion d'un site WordPress et WooCommerce",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
